@@ -948,26 +948,7 @@
 
 ## Numbers
 # Chinese and Japanese numbers
-::s 零 ::num 0
-::s 〇 ::num 0
-::s 一 ::num 1
-::s 二 ::num 2
-::s 三 ::num 3
-::s 四 ::num 4
-::s 五 ::num 5
-::s 六 ::num 6
-::s 七 ::num 7
-::s 八 ::num 8
-::s 九 ::num 9
-::s 十 ::num 10
-::s 百 ::num 100
-::s 千 ::num 1000
-::s 万 ::num 10000
-::s 萬 ::num 10000
-::s 亿 ::num 100000000
-::s 億 ::num 100000000
-::s 兆 ::num 1000000000000
-::s 京 ::num 10000000000000000
+# Removed
 
 # numbers in non-number words (to be exptended)
 ::s 一贯 ::t yiguan ::comment consistent
